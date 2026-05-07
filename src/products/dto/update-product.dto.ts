@@ -9,5 +9,4 @@ export class UpdateProductDto extends PartialType(CreateProductDto) {
     id!: number;
 
 
-
 }
